@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    scroll-behavior: smooth !important;
+}
+
+.visa-swiper-slide {
+    min-width: 400px !important;
+}
+
+.weekly-swiper-slide {
+    min-width: 400px !important;
+}
+
+@media (min-width: 400px) {
+    .weekly-swiper-slide {
+        /* margin: 0 10px; */
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "banner1":{
+        "h2":"Take a Glimpse Into The Beautiful City Of:",
+        "h1":"Istanbul",
+        "population":"Population:",
+        "territory":"Territory:",
+        "avgPrice":"AVG Price:"
+    },
+    "banner2":{
+        "h2":"Take a Glimpse Into The Beautiful City Of:",
+        "h1":"Antaliya",
+        "population":"Population:",
+        "territory":"Territory:",
+        "avgPrice":"AVG Price:"
+    },
+    "banner3":{
+        "h2":"Take a Glimpse Into The Beautiful City Of:",
+        "h1":"Dubai",
+        "population":"Population:",
+        "territory":"Territory:",
+        "avgPrice":"AVG Price:"
+    },
+    "banner4":{
+        "h2":"Take a Glimpse Into The Beautiful City Of:",
+        "h1":"Sharm-El-Sheikh",
+        "population":"Population:",
+        "territory":"Territory:",
+        "avgPrice":"AVG Price:"
+    },
+    "nav":{
+        "home":"Home",
+        "about":"About",
+        "tours":"Tours",
+        "contact":"Contact"
+    },
+    "button":{
+        "explore":"Explore More",
+        "go":"Go There",
+        "reservation":{
+            "1":"Make A Reservation",
+            "2":"Make A Reservation Now"
+        },
+        "discover":"Discover More",
+        "book":"Book Yours Now",
+        "direction":"Need Directions ?"
+    },
+    "weekly":{
+        "h2":"Best Weekly Offers In Each City",
+        "p":"Discover the best weekly offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences."
+    },
+    "weeklyCard":{
+        "h5":"Deal Includes:",
+        "p1":"5 Days Trip Hotel Included",
+        "p2":"Airplane Bill Included",
+        "p3":"Daily Places Visit"
+    },
+    "visa":{
+        "h2":"Visa Support",
+        "p":"Experience stress-free travel with our expert visa support. We provide seamless assistance and comprehensive guidance, ensuring a smooth journey."
+    },
+    "visaCard":{
+        "h5":"Benefits of our Visa Support service:",
+        "p1":"Best Prices",
+        "p2":"Short Processing Time",
+        "p3":"Trustworthy Assistance"
+    },
+    "country":{
+        "usa":"USA",
+        "england":"England",
+        "canada":"Canada",
+        "europe":"Europe",
+        "kuala":"Kuala Lumpur",
+        "japan":"Japan",
+        "oman":"Oman",
+        "saudia":"Saudia Arabia",
+        "india":"India",
+        "china":"China",
+        "hong":"Hong Kong"
+    },
+    "checks":{
+        "ins":"Check Ins",
+        "person":"person"
+    },
+    "destination":{
+        "h2":"Explore Destinations With Ease",
+        "p":"Find the best deals on railway and airplane tickets in each city, carefully selected for you."
+    },
+    "destinationCard":{
+        "1":{
+            "title":"Cheap Railway Tickets With Us",
+            "subtitle":"Whole world",
+            "parag":"Embark on a railway adventure and explore destinations worldwide. Whether its the picturesque landscapes, bustling cities, or cultural gems, our rail services offer a unique and comfortable way to traverse the globe. Immerse yourself in the beauty of different cultures, all accessible through our extensive railway network."
+        },
+        "2":{
+            "title":"Discover Exciting Air Travel Deals",
+            "subtitle":"Global Destinations",
+            "parag":"Embark on a railway adventure and explore destinations worldwide. Whether its the picturesque landscapes, bustling cities, or cultural gems, our rail services offer a unique and comfortable way to traverse the globe. Immerse yourself in the beauty of different cultures, all accessible through our extensive railway network."
+        }
+    },
+    "visit":{
+        "h2":"Visit One Of Our Countries Now",
+        "p":"Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences."
+    },
+    "visitCard":{
+        "mil":"M",
+        "km":"km",
+        "1":{
+            "subtitle":"United Arab Emirated",
+            "parag":"Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks."
+        },
+        "2":{
+            "subtitle":"Turkey",
+            "parag":"Antalya is the fastest-growing city in Turkey, and tourists from around the world are discovering its fabulous mix of great beaches and traditional Turkish culture. Kids will love the Beach Park, which features Aqua Land (a waterslide-fanatic's dream) and Dolphin Land (home to dolphins, sea lions and white whales). Make sure to explore the old town center and to see Hadrian's Gate."
+        },
+        "3":{
+            "subtitle":"Egypt",
+            "parag":"Sharm El Sheikh is the center of tourism action in Sinai Peninsula and it has the world top diving sites. Specially the underwater wonders of Ras Mohammed national park that took Sharm city to whole different level. The city has diving and shipwreck sites that attract both advanced and recreational divers from around the world to discover the un parallel marine life deep down the red sea."
+        },
+
+        "4":{
+            "subtitle":"Turkey",
+            "parag":"Istanbul is the most populous city in Turkey and its cultural, economic and historic center. It is located in north-western part of Turkey, divided into European and Asian side by Bosphorus, which connects the Sea of Marmara and Black Sea. It is the only city in the world that sits on two continents."
+        }
+    },
+    "reservation":{
+        "h4":"Book Prefered Deal Here",
+        "h2":"Make Your Reservation"
+    },
+    "info":{
+        "phone":"Make a Phone Call",
+        "email":"Contact Us via Email",
+        "location":"Visit Our Offices",
+        "place":"15/25, Chilanzar - 9, Tashkent city"
+    },
+    "form":{
+        "h2":{
+            "f":"Make Your",
+            "s":"Reservation",
+            "t":"Through This",
+            "fo":"Form"
+        },
+        "name":"Your Name",
+        "phone":"Your Phone Number",
+        "guests":"Number of Guests",
+        "date":"Check In Date",
+        "destination":"Choose Your Destination",
+        "visa":"Choose Your Visa Support",
+        "nameex":"John Smith",
+        "phoneex":"+998 99 999 99 99",
+        "guestsex":"3 or 4 or 5",
+        "destinationex":"England",
+        "visaex":"England"
+    },
+    "footer":{
+        "h2":"ARE YOU LOOKING TO TRAVEL ?",
+        "p":"Make A Reservation By Clicking The Button"
+    },
+    "best":{
+        "h2":"Best Locations",
+        "p":"Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences."
+    },
+    "formsent":{
+        "success":"Sent Successfully",
+        "error":"Could not send. Please try again"
+    }
+}
