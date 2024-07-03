@@ -16,7 +16,7 @@ const Footer = () => {
                 </div>
         </div>
         <div className='text-center bg-main text-[12px] sm:text-[15px] px-[20px] text-white h-[80px] flex items-center justify-center'>
-            <strong>Copyright &copy; 2024 Zamon Tour. All rights reserved.</strong>
+            <strong>Copyright &copy; 2024 Tour Company. All rights reserved.</strong>
         </div>
     </div>
   )

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Container from '../utils/Container'
-import logo from "../assets/zamon.svg"
+import logo from "../assets/yourLogo.png"
 import { FaTelegram,FaInstagram  } from "react-icons/fa";
 import i18next from '../i18next/i18next';
 import { useTranslation } from 'react-i18next';
@@ -19,7 +19,7 @@ const Navbar = () => {
             <div className='flex items-center h-full'>
                 <div className='flex-1'>
                     <a href="#">
-                        <img src={logo} alt="" />
+                        <img style={{width:"60px", height:"40px"}} src={logo} alt="" />
                     </a>
                 </div>
                 <div className='lg:flex lg:gap-x-36 hidden'>
@@ -33,8 +33,8 @@ const Navbar = () => {
                         <button onClick={e=>{changeLang("uz")}} className='text-white hover:text-black transition-colors duration-300'>UZ</button>
                         <button onClick={e=>{changeLang("en")}} className='text-white hover:text-black transition-colors duration-300'>ENG</button>
                         <button onClick={e=>{changeLang("ru")}} className='text-white hover:text-black transition-colors duration-300'>RU</button>
-                        <a className='text-white text-xl hover:text-black transition-colors duration-300' href="https://t.me/zamonbiznestour"><FaTelegram /></a>
-                        <a className='text-white text-xl hover:text-black transition-colors duration-300' href="https://www.instagram.com/zamontour/"><FaInstagram /></a>
+                        <a className='text-white text-xl hover:text-black transition-colors duration-300' href="https://t.me/tourcompany"><FaTelegram /></a>
+                        <a className='text-white text-xl hover:text-black transition-colors duration-300' href="https://www.instagram.com/tourcompany/"><FaInstagram /></a>
                     </div>
                 </div>
 
@@ -56,8 +56,8 @@ const Navbar = () => {
                         <li onClick={e=>setOpen(false)} className='border-b-[1px] border-[#afafaf] w-full text-center pb-4'><button onClick={e=>{changeLang("uz")}} className='text-black hover:text-black transition-colors duration-300'>UZ</button></li>
                         <li onClick={e=>setOpen(false)} className='border-b-[1px] border-[#afafaf] w-full text-center pb-4'><button onClick={e=>{changeLang("en")}} className='text-black hover:text-black transition-colors duration-300'>ENG</button></li>
                         <li onClick={e=>setOpen(false)} className='border-b-[1px] border-[#afafaf] w-full text-center pb-4'><button onClick={e=>{changeLang("ru")}} className='text-black hover:text-black transition-colors duration-300'>RU</button></li>
-                        <li onClick={e=>setOpen(false)} className='border-b-[1px] border-[#afafaf] w-full text-center pb-4'><a className='text-black text-xl hover:text-black transition-colors duration-300 flex justify-center' href="https://t.me/zamonbiznestour"><FaTelegram /></a></li>
-                        <li onClick={e=>setOpen(false)} ><a className='text-black text-xl hover:text-black transition-colors duration-300' href="https://www.instagram.com/zamontour/"><FaInstagram /></a></li>
+                        <li onClick={e=>setOpen(false)} className='border-b-[1px] border-[#afafaf] w-full text-center pb-4'><a className='text-black text-xl hover:text-black transition-colors duration-300 flex justify-center' href="https://t.me/tourcompany"><FaTelegram /></a></li>
+                        <li onClick={e=>setOpen(false)} ><a className='text-black text-xl hover:text-black transition-colors duration-300' href="https://www.instagram.com/tourcompany/"><FaInstagram /></a></li>
                     </ul>
                 </div>
             </div>

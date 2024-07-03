@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next'
-import heading from '../assets/image.png'
+import heading from '../assets/heading.png'
 
 const Reservation = () => {
   const {t}=useTranslation()
